@@ -13,8 +13,8 @@ body{
     grid-template-columns:1fr 1fr 1fr;
     width: 85%;
     margin: 40px;
-    background: rgb(91,139,232);
-    background: linear-gradient(0deg, rgba(91,139,232,1) 0%, rgba(165,73,242,1) 100%);
+    background: rgb(165,73,242);
+    background: linear-gradient(0deg, rgba(165,73,242,1) 0%, rgba(91,139,232,1) 100%);
 }
 .contaner-1{
     border: 3px solid white;
